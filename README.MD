@@ -1,3 +1,4 @@
+```
 minishop/
 │
 ├── app/
@@ -56,3 +57,5 @@ minishop/
 ├── run.py
 │
 └── README.md
+
+```
